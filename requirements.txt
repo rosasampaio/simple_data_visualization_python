@@ -6,3 +6,9 @@ seaborn
 mpl_toolkits
 numpy
 scikit-learn
+geodatasets
+unidecode
+geopandas
+folium
+branca
+ipywidgets
